@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".badge").popover({trigger:"click",delay:0})});
