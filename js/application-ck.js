@@ -1,1 +1,1 @@
-$(document).ready(function(){$(".badge").popover({trigger:"click",delay:0})});
+$(document).ready(function(){$(".badge").popover({trigger:"click",delay:0});var e=window.location.hash.replace("#","");$("#us-link").attr("href","http://bcrr.us/usa/"+e);$("#intl-link").attr("href","http://bcrr.us/intl/"+e)});
