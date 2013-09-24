@@ -9,6 +9,8 @@ $(document).ready(function() {
   $('#us-link').attr('href','http://bcrr.us/usa/' + hash);
   $('#intl-link').attr('href','http://bcrr.us/intl/' + hash);
 
+  $("#vision2022-vimeo").fitVids();
+
 
 });
 
