@@ -191,6 +191,14 @@ body .button:hover {
   color: #ffffff;
 }
 /* Choose Section */
+#choose {
+  padding-top: 3em;
+}
+
+#choose p {
+  text-align: center;
+}
+
 #choose .badge {
   font-size: 9px;
   background: #52504c;
