@@ -331,6 +331,9 @@ body .button:hover {
 #bottom .collection {
   padding-bottom: 3em;
 }
+#bottom .collection img {
+  max-width: 315px;
+}
 #bottom .collection .info h3 {
   color: #52504c;
 }
@@ -410,6 +413,9 @@ body .button:hover {
   }
   #hero #tithe {
     padding: 3em 1em;
+  }
+  #bottom .collection img {
+    max-width: 200px;
   }
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
