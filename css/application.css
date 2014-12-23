@@ -521,6 +521,10 @@ hr {
     margin-bottom: 600px;
 }
 
+#copyright:before {
+   content: "Copyright \00A9  Bethel 2015. All Rights Reserved.";
+}
+
 .reverseHover {
   text-decoration: none;
 }
