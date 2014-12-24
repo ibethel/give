@@ -517,8 +517,21 @@ hr {
 	 margin-left: 15px;
 }
 
-
-
-a:hover {
-    text-decoration: underline;
+#end {
+    margin-bottom: 600px;
 }
+
+.reverseHover {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.read-more a {
+  text-decoration: none;
+}
+.read-more a:hover {
+  text-decoration: underline;
+}
+
+
