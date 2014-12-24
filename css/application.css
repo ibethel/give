@@ -194,11 +194,9 @@ body .button:hover {
 #choose {
   padding-top: 3em;
 }
-
 #choose p {
   text-align: center;
 }
-
 #choose .badge {
   font-size: 9px;
   background: #52504c;
@@ -311,16 +309,12 @@ body .button:hover {
   white-space: nowrap;
   -webkit-animation: textScroll 0.5s ease;
   /* Safari 4+ */
-
   -moz-animation: textScroll 0.5s ease;
   /* Fx 5+ */
-
   -o-animation: textScroll 0.5s ease;
   /* Opera 12+ */
-
   animation: textScroll 0.5s ease;
   /* IE 10+ */
-
 }
 #bottom .areas:hover .title {
   display: none;
@@ -498,44 +492,27 @@ body .button:hover {
     width: 25%!important;
   }
 }
-
 #vision2022-vimeo {
   margin-bottom: 15px;
 }
-
 hr {
-    border: 0;
-    height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
-
 #helphead {
-	margin-left: 30px;
+  margin-left: 30px;
 }
 #question {
-	 margin-left: 15px;
+  margin-left: 15px;
 }
-
 #end {
-    margin-bottom: 600px;
+  margin-bottom: 600px;
 }
-
 #copyright:before {
-   content: "Copyright \00A9  2015 Bethel. All Rights Reserved.";
-}
-
-.reverseHover {
-  text-decoration: none;
+  content: "Copyright \00A9  2015 Bethel. All Rights Reserved.";
 }
 a:hover {
   text-decoration: underline;
 }
-.read-more a {
-  text-decoration: none;
-}
-.read-more a:hover {
-  text-decoration: underline;
-}
-
-

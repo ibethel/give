@@ -525,8 +525,16 @@ hr {
    content: "Copyright \00A9  2015 Bethel. All Rights Reserved.";
 }
 
-
+.reverseHover {
+  text-decoration: none;
+}
 a:hover {
+  text-decoration: underline;
+}
+.read-more a {
+  text-decoration: none;
+}
+.read-more a:hover {
   text-decoration: underline;
 }
 
